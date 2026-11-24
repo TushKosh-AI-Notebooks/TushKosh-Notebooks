@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+brand_and_download.py
