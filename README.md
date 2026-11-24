@@ -19,9 +19,12 @@ Collection of Free **Google Colab** and **Kaggle** notebooks for Music Generatio
 ## 🚀 How to Use
 
 ### 🟡 Google Colab Notebooks
-1. Click **Open in Colab** next to any notebook below.
-2. Connect to a GPU runtime: `Runtime → Change runtime type → T4 GPU`.
-3. Run the cells in order from top to bottom.
+1. Click **Open in Colab** next to any Colab notebook below *(opens directly in Google Colab)*.
+2. Sign in with your Google account (if not already signed in).
+3. *(Optional)* Click **Copy to Drive** (`File → Save a copy in Drive`) if you want to save your own copy.
+4. Connect to a GPU runtime: `Runtime → Change runtime type → T4 GPU` → **Save**.
+5. Click **Connect** at the top right, then run the cells in order from top to bottom (`Runtime → Run all` or click the ▶ Play button on each cell).
+6. Once the final cell runs, click the public **Gradio link** (`https://....gradio.live`) to launch the UI.
 
 ### 🔵 Kaggle Notebooks
 1. Click **Download (.ipynb)** next to any Kaggle notebook below *(downloads the `.ipynb` file directly)*.
